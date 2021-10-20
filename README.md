@@ -8,6 +8,9 @@
 - 💬 Ask me about everything!
 - ⚡ Fun fact: I love listening and playing music, photography, sports and hanging out with family & friends!
 
+### Latest Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
