@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a problem solver, AI enthusiast and Computer Engineer
+## I'm a Problem Solver, AI enthusiast and Computer Engineer 🚀🚀🚀
 
 - 🔭 I’m currently working on https://github.com/msmurgui/a3c-openai-gym
 - 🌱 I’m constantly learning on AI, Soft Dev and New Tech
