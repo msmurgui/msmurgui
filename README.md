@@ -12,6 +12,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+### Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msmurgui&count_private=true)
+
+
 
 
 
